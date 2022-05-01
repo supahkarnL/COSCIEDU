@@ -14,12 +14,9 @@ import Notfound from "./components/notfound";
 import Summary from "./components/Summary";
 import Layout from "./components/Layout";
 import RequireAuth from "./components/RequireAuth";
-import Sidebar from "./components/Sidebar";
-import IndexHeader from "./components/indexHeader";
-import indexHome from "./components/indexHome";
+
 import Datatest from "./components/GradeCalculateTest/testCalculate";
-import CreatedataTest from "./components/CreatedataTest";
-import TableData from "./components/Classrooms/Table";
+
 import axios from "axios";
 import useAuth from "./hooks/useAuth";
 import InputInfo from "./components/InputInfo";

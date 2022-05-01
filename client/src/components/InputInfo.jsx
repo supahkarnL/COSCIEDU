@@ -281,6 +281,7 @@ export default function InputInfo() {
         >
           นำเข้าข้อมูลจากไฟล์
         </button>
+
         <button
           type="button"
           class={`inline-block px-6 py-2 border-2 border-blue-600 text-blue-600 font-medium text-xs leading-tight uppercase rounded hover:bg-blue-700 hover:text-white focus:outline-none focus:ring-0 transition duration-150 ease-in-out `}
